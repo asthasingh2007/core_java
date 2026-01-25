@@ -1,3 +1,4 @@
+//find the sum of the given series in java.
 import java.util.*;
 public class sum_series {
     public static void main(String[] args) {
