@@ -13,6 +13,6 @@ public class binary_to_decimal {
             binary_num/=10;
             b*=2;
         }
-        System.out.println();
+        System.out.println(ans);
     }
 }
